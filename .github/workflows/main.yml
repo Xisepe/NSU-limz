@@ -1,5 +1,8 @@
 name: Deploy Marp Presentation
-
+permissions:
+  contents: read
+  pages: write
+  
 on:
   push:
     branches:
