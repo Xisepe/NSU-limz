@@ -1,0 +1,7 @@
+{
+    "markdown.marp.themes": [
+    "https://raw.githubusercontent.com/rainbowflesh/Marp/master/css/rosepine.css",
+    "https://rainbowflesh.github.io/css/rose-pine.css"
+    ],
+    "markdown.marp.enableHtml": true
+}
